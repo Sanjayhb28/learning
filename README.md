@@ -1,6 +1,11 @@
 # Ice Breaker
 Project set up:
 
+Clone repository with specific SSH key:
+```bash
+git clone -c "core.sshCommand=ssh -i ~/.ssh/key_name" ssh_url
+```
+
 Install pipenv if you don't have it:
 ```bash
 pip install pipenv or brew install pipenv

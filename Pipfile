@@ -12,6 +12,7 @@ black = "*"
 python-dotenv = "*"
 langchain-google-genai = "*"
 langchain-ollama = "*"
+langchain-tavily = "*"
 
 [dev-packages]
 ipykernel = "*"

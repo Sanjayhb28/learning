@@ -54,5 +54,5 @@ def lookup(name: str) -> str:
     return result['output']
 
 if __name__ == "__main__":
-    name = "Ruthvik P Thimmoji"
+    name = "Sanjay H B"
     print(lookup(name))

@@ -30,7 +30,6 @@ def ice_breaker_with(name: str) -> str:
         max_tokens=None,
         timeout=None,
         max_retries=2
-        # other params...
     )
 
     # chain = summary_prompt_template | llm

@@ -1,7 +1,1 @@
 fileignoreconfig:
-- filename: ice_breaker.py
-  checksum: c66aac9903e9268d44ba42ae0548fd9d689e1bb4195ee7a85d358699f684e7c4
-- filename: third_parties/linkedin.py
-  checksum: 555172e693f50127f59433146df3e9866eafcd6b5d883c3b159b87545e0050d6
-- filename: Pipfile.lock
-  checksum: 375b7a744e152601a80855a89e8f15eb14d3c6b70b2bf39fb61588c31e5c89cb
